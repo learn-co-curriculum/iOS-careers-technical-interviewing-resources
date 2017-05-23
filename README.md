@@ -61,9 +61,9 @@ Time Complexities
   * [Google CodeJam Practice Questions](https://code.google.com/codejam/contests.html)
 
 ## Online Judging Systems
-  * [LeetCode Online Judge] (https://leetcode.com/problemset/algorithms/)
+  * [LeetCode Online Judge](https://leetcode.com/problemset/algorithms/)
   * [HackerRank Online Judge](https://www.hackerrank.com/)
-  * [Project Euler] (https://projecteuler.net/)
+  * [Project Euler](https://projecteuler.net/)
 
 ## Mock Interviews
   * [Pramp](https://www.pramp.com/)
@@ -73,8 +73,8 @@ Time Complexities
   * [Interview Cake](https://www.interviewcake.com/)
 
 ## Actual Interview Questions
-  * [Flatiron School Student Interview Questions](https://docs.google.com/spreadsheets/d/13J6P4YxMQdqGUJ1iahO2eKwtRWlMVX8UU7crHTfF3Uw/edit#gid=0)
-  * [Technical Interview Questions](https://gist.github.com/Kphillycat/21aeae3469d7f90220a2)
+  * [Flatiron School Student Interview Questions](https://docs.google.com/a/flatironschool.com/spreadsheets/d/1hxdzjHK4CsdtZtlIKzWcEyT1b3nOsuLWFw986JYc8eE/edit?usp=sharing)
+
 
 ## Books
   * [Algorithms, 4th edition, by Robert Sedgewick and Kevin Wayne](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
